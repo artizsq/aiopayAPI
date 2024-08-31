@@ -3,3 +3,5 @@ furo
 aiopayAPI
 sphinx_automagicdoc
 sphinx_design
+typing
+aiohttp
