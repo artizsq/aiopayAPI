@@ -18,7 +18,7 @@
   <br>
   <a href="https://aiopayapi.readthedocs.io/ru/latest/index.html">Документация</a>
   <br>
-  <a href="">GitHub</a>
+  <a href="https://github.com/artizsq/aiopayAPI">GitHub</a>
 </h2>
 
 ------

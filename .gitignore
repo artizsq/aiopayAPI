@@ -1,5 +1,6 @@
 /setup.cfg
-/setup.py
+/aiopayAPI/aiopayAPI/types/__pycache__
+/aiopayAPI/utils/__pycache__/
 /tests.py
 aiopayAPI/__pycache__/
 /test.py
