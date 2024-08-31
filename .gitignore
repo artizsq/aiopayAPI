@@ -1,0 +1,7 @@
+/setup.cfg
+/setup.py
+/tests.py
+aiopayAPI/__pycache__/
+/test.py
+.vscode/
+

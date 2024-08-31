@@ -1,0 +1,22 @@
+version: 2
+
+
+
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.11"
+
+# Установка среды выполнения
+python:
+  install:
+    - method: pip
+      path: .
+    - requirements: docs/requirements.txt
+
+# Настройки сборки документации
+sphinx:
+  configuration: docs/conf.py
+  
+
+# Стадии сборки
