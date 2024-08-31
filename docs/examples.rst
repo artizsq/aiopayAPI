@@ -9,6 +9,7 @@
 Получение баланса
 -------------
 .. code:: python
+
     from aiopayAPI.config import PayConfig
     from aiopayAPI import PayOk
     import asyncio
@@ -59,6 +60,7 @@
 Создание оплаты
 -----------
 .. code:: python
+
     from aiopayAPI.config import PayConfig
     from aiopayAPI import PayOk, Method
     import asyncio
@@ -87,6 +89,7 @@
 Получение оплаты
 -------------
 .. code:: python
+
     from aiopayAPI.config import PayConfig
     from aiopayAPI import PayOk, Method
     import asyncio
@@ -110,6 +113,7 @@
 Получение транзакций
 --------------
 .. code:: python
+    
     from aiopayAPI.config import QuickConfig
     from aiopayAPI import QuickPay, Method
     import asyncio
