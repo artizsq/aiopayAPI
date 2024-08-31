@@ -15,5 +15,5 @@
 Комиссия
 --------------------
 
-.. automodule:: aiopayAPI.types.commisions
+.. automodule:: aiopayAPI.types.commissions
     :members:
