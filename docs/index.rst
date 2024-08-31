@@ -51,6 +51,8 @@ GitHub: https://github.com/artizsq/aiopayAPI
     types.rst
 
     new.rst
+
+    config.rst
           
 
 
